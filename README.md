@@ -53,10 +53,13 @@
 
 
 ## Output:
+![mechanalyzerScreenshot3](https://github.com/user-attachments/assets/91acc01e-23b7-460e-a6f8-4105f8ad0333)
+
+![mechanalyzer screenshot2](https://github.com/user-attachments/assets/63a60f0c-e1e4-4507-909a-872c6825ba74)
 
 
-### Name:
-### Register Number: 
+### Name:D.Nitish Adavan
+### Register Number:24901049
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
